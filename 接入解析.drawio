@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T03:17:01.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="t6NvtEUwIDhfgKw-gGAI" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T03:23:49.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="OKCWCiqyZ-ctrBE1Pchv" version="20.8.19" type="github">
   <diagram name="第 1 页" id="VBkTwmMw8Twz73WTKEvl">
     <mxGraphModel dx="746" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,6 +80,9 @@
         </mxCell>
         <mxCell id="XKYg5dqnUTp-qycACsAL-55" value="中转" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="660" y="-690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XKYg5dqnUTp-qycACsAL-60" value="&lt;h1 style=&quot;font-size: 13px;&quot;&gt;1.管理连接&lt;/h1&gt;&lt;div&gt;2.在线统计&lt;/div&gt;&lt;div&gt;3.数据统计&lt;/div&gt;&lt;div&gt;4.下行转发&lt;/div&gt;&lt;div&gt;5.透明中转&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="595" y="-890" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
