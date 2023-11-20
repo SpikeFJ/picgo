@@ -1,31 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T03:19:31.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="-p8QVDcjeAN6TZ8e4Yjv" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T05:15:00.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="hU88xeFsR6IrFTgCXVqi" version="21.6.5" type="github">
   <diagram id="tl8KdTMLcbwBXlCz1rqT" name="Page-1">
     <mxGraphModel dx="739" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ABtF27ToQKTDoKfIrqzG-1" target="ABtF27ToQKTDoKfIrqzG-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-1" value="&lt;b&gt;网关接入&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="360" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-1" value="gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="346" height="60" as="geometry" />
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-5" value="&lt;b&gt;数据处理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="270" y="10" width="360" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ABtF27ToQKTDoKfIrqzG-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-5" value="process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="346" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.993;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ABtF27ToQKTDoKfIrqzG-7" target="ABtF27ToQKTDoKfIrqzG-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-7" value="protocol" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-7" value="&lt;b&gt;协议驱动&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="130" y="90" width="110" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-8" value="应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-17" value="&lt;b&gt;协议驱动&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="660" y="90" width="110" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-23" value="通讯连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-24" value="鉴权处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-25" value="黑白名单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-26" value="数据统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-27" value="数据转发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-28" value="分包组帧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-30" value="上行处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-31" value="下行处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-34" value="下行发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-35" value="在线连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-36" value="下行发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="280" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
