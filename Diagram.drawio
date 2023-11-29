@@ -1,85 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T05:44:45.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="V7JIC19k60ppdQTEybcQ" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T01:14:33.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="P7-BcveFTFcBekI2Yksn" version="22.1.4" type="github">
   <diagram id="tl8KdTMLcbwBXlCz1rqT" name="Page-1">
-    <mxGraphModel dx="951" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="739" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-1" value="&lt;b&gt;网关接入&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-1" value="&lt;b&gt;网关接入&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="280" y="240" width="550" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-7" value="&lt;b&gt;协议驱动&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-7" value="&lt;b&gt;协议驱动&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="130" y="90" width="110" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-17" value="&lt;b&gt;协议驱动&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-17" value="&lt;b&gt;协议驱动&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="880" y="90" width="110" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-23" value="通讯连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-23" value="通讯连接" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="360" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-24" value="鉴权处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-24" value="鉴权处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="360" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-25" value="黑白名单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-25" value="黑白名单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="360" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-26" value="数据统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-26" value="数据统计" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="320" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-27" value="数据转发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-27" value="数据转发" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="320" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-28" value="分包组帧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-28" value="分包组帧" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="360" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-34" value="下行发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-34" value="下行发送" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="280" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-35" value="在线连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-35" value="在线连接" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="320" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-36" value="下行发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-36" value="下行发送" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="280" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-50" value="&lt;b&gt;数据处理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-50" value="&lt;b&gt;数据分析&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="284" y="-120" width="546" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-51" value="&lt;b&gt;实时处理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-51" value="&lt;b&gt;实时处理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="304" y="-90" width="246" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-52" value="&lt;b&gt;离线处理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-52" value="&lt;b&gt;离线处理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="574" y="-90" width="246" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-5" value="&lt;b&gt;数据转换&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-5" value="&lt;b&gt;数据处理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="60" width="550" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-30" value="&lt;b&gt;上行&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-30" value="&lt;b&gt;上行&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="290" y="90" width="250" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-31" value="&lt;b&gt;下行&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-31" value="&lt;b&gt;下行&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="550" y="90" width="270" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-56" value="数据解析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-56" value="数据解析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="120" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-57" value="数据组帧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-57" value="数据组帧" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="120" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-58" value="超时处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-58" value="超时处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="160" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-59" value="重试规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-59" value="重试规则" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="120" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-60" value="并发控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-60" value="并发控制" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="160" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-61" value="路由分发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-61" value="路由分发" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="120" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-62" value="数据加工" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-62" value="数据加工" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="160" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABtF27ToQKTDoKfIrqzG-63" value="报文合并" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABtF27ToQKTDoKfIrqzG-63" value="报文合并" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="160" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
